@@ -1,0 +1,4 @@
+
+BOT_TOKEN = ''
+
+PHOTO_OUTPUT_FORMAT = '.jpg'
